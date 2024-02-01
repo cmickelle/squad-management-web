@@ -50,7 +50,7 @@ curl -X DELETE http://localhost:3000/squads/:id
 ```
 
 ## Additional Testing
--Generate the squads automaticaly via bash
+Generate the squads automaticaly via bash
 ```
 bash create_squads.sh
 ```
